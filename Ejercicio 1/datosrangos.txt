@@ -1,0 +1,7 @@
+num_particiones=1-20
+tamanyo_particiones=1-10
+tamanyo_quantum=3-4
+num_procesos=2-20
+tiempo_llegada_procesos=0-50
+rafaga_procesos=2-50
+memoria_procesos=1-6
